@@ -1,4 +1,4 @@
-Yii2 admin template
+Yii2 admin template...
 
 # yii2-metronic
 Yii2 [Metronic theme](http://www.keenthemes.com/) integration. Currently is supported the version 4.6
