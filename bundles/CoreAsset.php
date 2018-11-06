@@ -46,11 +46,15 @@ class CoreAsset extends BaseAssetBundle
       'global/plugins/jquery-migrate.min.js',
       'global/plugins/jquery-ui/jquery-ui.min.js',
         // 'global/plugins/bootstrap/js/bootstrap.min.js',
+
+      // added by hbhe
+      'global/plugins/js.cookie.min.js',
+      //end
+
       'global/plugins/jquery-slimscroll/jquery.slimscroll.min.js',
       'global/plugins/jquery.blockui.min.js',
       'global/plugins/bootstrap-hover-dropdown/bootstrap-hover-dropdown.min.js',
       'global/plugins/bootstrap-switch/js/bootstrap-switch.min.js',
-
 
     ];
 }

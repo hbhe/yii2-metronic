@@ -234,6 +234,10 @@ class Portlet extends Widget
 
             echo Html::endTag('div');
 
+            // added by hbhe begin
+            echo $this->renderTools();
+            // end
+
             echo Html::endTag('div');
         }
     }
